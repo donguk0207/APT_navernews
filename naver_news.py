@@ -5,7 +5,7 @@ import urllib.parse
 import json
 
 client_id = "YhzRYGzeaKX1tvCozbQA"
-client_secret = "sKm0MRNhKl"
+client_secret = "*"
 
 encText = urllib.parse.quote("악성메일 -출시")
 
