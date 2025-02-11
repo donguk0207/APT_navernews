@@ -39,5 +39,5 @@ else:
 
 #startdate = "2023.07.30"
 #enddate = "2023.08.13"
-#client_id = "YhzRYGzeaKX1tvCozbQA"
-#client_secret = "sKm0MRNhKl"
+#client_id = "*"
+#client_secret = "*"
